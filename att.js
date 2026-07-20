@@ -210,6 +210,6 @@ const funcionarios = [
 
 // console.log(funcionario);
 
-// let funcionario = funcionarios.find((funcionario) => funcionario.departamento.toLowerCase().includes('juridico'))
+let funcionario = funcionarios.find((funcionario) => funcionario.departamento.toLowerCase().includes('juridico'))
 
-// console.log(funcionario);
+console.log(funcionario);
